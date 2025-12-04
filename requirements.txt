@@ -1,4 +1,3 @@
-'EOF'
 aiogram>=3.4.0
 aiohttp>=3.9.0
 feedparser>=6.0.0
@@ -6,5 +5,5 @@ beautifulsoup4>=4.12.0
 requests>=2.31.0
 python-dotenv>=1.0.0
 aiosqlite>=3.10.0
-EOF
+
 
